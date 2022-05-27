@@ -4,14 +4,10 @@ import React from 'react';
 function HomePage() {
   return (
     <>
-    <h1>Hello, welcome to my blog!</h1>
+    <h1>Hello, Welcome to React Js Blog</h1>
     <p>
-        Welcome to my blog! Proin congue
-        ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
-        Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
-        non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
-        eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 
-        sodales purus euismod.
+        This Blog is made on React Js. 
+        
     </p>
     <p>
         Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
